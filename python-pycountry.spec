@@ -58,17 +58,6 @@ and their translations.
 Definicje ISO dla krajów, podziału, języków, walut i pisma wraz z
 tłumaczeniami.
 
-%package apidocs
-Summary:	API documentation for Python pycountry module
-Summary(pl.UTF-8):	Dokumentacja API modułu Pythona pycountry
-Group:		Documentation
-
-%description apidocs
-API documentation for Python pycountry module.
-
-%description apidocs -l pl.UTF-8
-Dokumentacja API modułu Pythona pycountry.
-
 %prep
 %setup -q -n pycountry-%{version}
 
