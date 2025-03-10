@@ -6,7 +6,7 @@ Summary:	ISO country, subdivision, language, currency and script definitions and
 Summary(pl.UTF-8):	Definicje ISO dla krajów, podziału, języków, walut i pisma wraz z tłumaczeniami
 Name:		python3-pycountry
 Version:	22.3.5
-Release:	1
+Release:	2
 License:	LGPL v2.1
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pycountry/
