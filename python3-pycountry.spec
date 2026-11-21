@@ -5,13 +5,13 @@
 Summary:	ISO country, subdivision, language, currency and script definitions and their translations
 Summary(pl.UTF-8):	Definicje ISO dla krajów, podziału, języków, walut i pisma wraz z tłumaczeniami
 Name:		python3-pycountry
-Version:	24.6.1
+Version:	26.2.16
 Release:	1
 License:	LGPL v2.1
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pycountry/
 Source0:	https://files.pythonhosted.org/packages/source/p/pycountry/pycountry-%{version}.tar.gz
-# Source0-md5:	61111cc27f09e44aa3bace260a8b3089
+# Source0-md5:	06db682b3f2b43db29e96291f9bcefa6
 URL:		https://pypi.org/project/pycountry/
 BuildRequires:	python3-build
 BuildRequires:	python3-installer
